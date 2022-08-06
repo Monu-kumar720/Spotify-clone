@@ -1,4 +1,4 @@
-# Spotify_Clone
+# Spotify-Clone
 <h3><b>A Simple Spotify Clone Using Pure HTML, CSS & JavaScript.</i></b></h3>
 <br>
 
@@ -13,7 +13,7 @@
 <br><br><br>
 ![screenshot of spotify-clone](https://user-images.githubusercontent.com/75105879/183268238-609b6209-db89-4688-9c16-d91d556a698b.png)
 
-<br><br><br>
+<br><br>
 <i>This Spotify Clone Is Only For Knowledge & Learning HTML, CSS & JavaScript. It Is Just A Creative Clone. It Has Only <b>Needed Functionality</b> & More Enhancement or Updation Can Be Applied To It. Don't Take It As A Complete Spotify Application. It is Just A Learning Module.</i>
 <br><br>
-<a href="https://kanha412.github.io/Spotify_Clone/" target="_blank" style="text-decoration:none;"><i><b>Have A Look By Clicking Here</b></i></a>
+<a href="https://monu-kumar720.github.io/Spotify-clone/" target="_blank" style="text-decoration:none;"><i><b>Give it a go By Clicking Here</b></i></a>

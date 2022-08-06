@@ -11,11 +11,8 @@
 
 <i>This Spotify Clone Is <b>Partially Functional</b> & <b>Partially Responsive.</i></b>
 <br><br><br>
-![Screenshot (432)](https://user-images.githubusercontent.com/85762282/157341869-af500877-d2e3-4153-bac6-cde4466e8f7e.png)
-<br><br>
-![Screenshot (433)](https://user-images.githubusercontent.com/85762282/157341877-88eb72ed-0d1f-42fc-b272-03345adbfda2.png)
-<br><br>
-![Screenshot (434)](https://user-images.githubusercontent.com/85762282/157341880-84ad82c7-4b0c-4fd9-8d9b-c3eeeb2b433d.png)
+![screenshot of spotify-clone](https://user-images.githubusercontent.com/75105879/183268238-609b6209-db89-4688-9c16-d91d556a698b.png)
+
 <br><br><br>
 <i>This Spotify Clone Is Only For Knowledge & Learning HTML, CSS & JavaScript. It Is Just A Creative Clone. It Has Only <b>Needed Functionality</b> & More Enhancement or Updation Can Be Applied To It. Don't Take It As A Complete Spotify Application. It is Just A Learning Module.</i>
 <br><br>
